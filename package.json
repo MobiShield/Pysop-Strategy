@@ -1,7 +1,7 @@
 {
-  "name": "pysopstrategy",
+  "name": "psyop-strategy",
   "version": "0.1.0",
-  "description": "Deterministic dip shield planning and detection (policy-only).",
+  "description": "Psyop Strategy is an automated dip-response policy engine designed to monitor token market conditions and coordinate full treasury reinjection strategies during predefined drawdown events.",
   "main": "src/cli.js",
   "scripts": {
     "test": "jest --runInBand",
